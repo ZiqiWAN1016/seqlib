@@ -1,3 +1,15 @@
+#ifndef _FLOATN_H
+#define _FLOATN_H
+
+typedef long double _Float128;
+typedef float _Float32;
+typedef double _Float64;
+typedef double _Float32x;
+typedef long double _Float64x;
+
+#endif // _FLOATN_H
+
+
 /*
  * utils.c for libdivsufsort
  * Copyright (c) 2003-2008 Yuta Mori All Rights Reserved.
